@@ -25,7 +25,7 @@ repo sync
 Then add these projects to .repo/manifest.xml:
 
 ```xml
-<project path="device/xiaomi/dipper" name="mauronofrio/android_device_xiaomi_dipper" remote="github" revision="android-9.0" />
+<project path="device/xiaomi/dipper" name="LowTension/android_device_xiaomi_dipper_twrp" remote="github" revision="twrp-9.0" />
 ```
 
 Finally execute these:
